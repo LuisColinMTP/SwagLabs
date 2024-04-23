@@ -35,5 +35,6 @@ public class LoginActions {
         }
         loginLocators.loginBtn.click();
         System.out.println("Click en Login");
+        //Se agrega un comentario
     }
 }
