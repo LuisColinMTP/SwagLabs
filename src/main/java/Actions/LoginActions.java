@@ -36,5 +36,6 @@ public class LoginActions {
         loginLocators.loginBtn.click();
         System.out.println("Click en Login");
         //Se agrega un comentario
+        //Se agrega otro comentario para la prueba GIT
     }
 }
